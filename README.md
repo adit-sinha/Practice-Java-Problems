@@ -1,4 +1,4 @@
-# Practice-Java
+# Practice-Java-Problems
 Basic and Intermediate Java programs to get comfortable with the language. Covers programs using concepts based on the AP Computer Science A syllabus.
 
 ## Programs:
